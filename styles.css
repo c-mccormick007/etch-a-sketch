@@ -1,5 +1,5 @@
 .content {
-    background-color: bisque;
+    background-color: gainsboro;
     display: inline-block;
     border: 5px solid black;
 }
@@ -8,7 +8,4 @@
     display: grid;
     grid-template-columns: repeat(16, 40px);
     grid-template-rows: repeat(16, 40px);
-}
-
-.box {
 }

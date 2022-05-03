@@ -1,0 +1,14 @@
+.content {
+    background-color: bisque;
+    display: inline-block;
+    border: 5px solid black;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(16, 40px);
+    grid-template-rows: repeat(16, 40px);
+}
+
+.box {
+}
